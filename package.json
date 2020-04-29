@@ -19,20 +19,20 @@
   },
   "homepage": "https://github.com/HoangDevNull/simple-teachable-machine#readme",
   "dependencies": {
-    "@hapi/joi": "^17.1.0",
-    "@tensorflow/tfjs": "^1.5.2",
-    "@tensorflow/tfjs-node": "^1.5.2",
+    "@hapi/joi": "^17.1.1",
+    "@tensorflow/tfjs": "^1.7.4",
+    "@tensorflow/tfjs-node": "^1.7.4",
     "busboy": "^0.3.1",
     "cors": "^2.8.5",
     "csv-parser": "^2.3.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-zip": "^3.0.0",
-    "mkdirp": "^1.0.3",
+    "mkdirp": "^1.0.4",
     "ngrok": "^3.2.7",
     "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.3"
   }
 }
